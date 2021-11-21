@@ -15,7 +15,7 @@
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
                 <div class="container">
-                    <a class="text-white nav-link h3" href="{{ url('/') }}">Investor</a>
+                    <a class="text-white nav-link h3" href="{{ url('/') }}">Employee</a>
                 </div>
 
                 <div class="container d-flex align-items-center justify-content-end">
